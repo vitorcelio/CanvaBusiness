@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.linha1 {
+    width: 100%;
+  }
+
+  .pad-zero {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .p-c {
+    padding-top: 5px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+  }
+
+  .p-c2 {
+    padding-top: 10px;
+  }
+
+  h3{
+    padding-left: 15px;
+
+  }
+
+  ul {
+    margin-bottom: 0;
+  }
+
+  .centro{
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+  }
